@@ -1,0 +1,3 @@
+rootProject.name='ProyekAkhir'
+include ':app'
+include ':consumerapp'
